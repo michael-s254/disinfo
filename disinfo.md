@@ -1,3 +1,0 @@
-# Disinformation
-
-Hello world.
