@@ -8,7 +8,7 @@ title: "Home"
 Hello.
 
 {% for post in site.posts %}   
-  [{{ post.title }}]({{ post.url }})
+  [{{ post.title }}](disinfo/{{ post.url }})
 {% endfor %}
 
 Bye.
